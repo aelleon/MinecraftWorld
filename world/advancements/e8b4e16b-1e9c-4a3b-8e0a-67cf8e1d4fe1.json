@@ -815,7 +815,8 @@
       "minecraft:spider": "2019-01-09 02:15:29 -0500",
       "minecraft:zombie": "2019-01-09 01:02:58 -0500",
       "minecraft:creeper": "2019-01-09 14:26:24 -0500",
-      "minecraft:drowned": "2019-01-09 01:36:20 -0500"
+      "minecraft:drowned": "2019-01-09 01:36:20 -0500",
+      "minecraft:zombie_villager": "2019-01-10 19:48:25 -0500"
     },
     "done": false
   },
