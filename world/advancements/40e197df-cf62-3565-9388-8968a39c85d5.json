@@ -1,0 +1,8 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2019-01-12 01:14:14 -0500"
+    },
+    "done": false
+  }
+}
