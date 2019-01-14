@@ -1,0 +1,67 @@
+[12:28:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:28:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:28:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:28:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:28:34] [main/INFO]: Loaded 0 recipes
+[12:28:34] [main/INFO]: Loaded 0 advancements
+[12:28:35] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[12:28:35] [Server thread/INFO]: Loading properties
+[12:28:35] [Server thread/INFO]: Default game type: SURVIVAL
+[12:28:35] [Server thread/INFO]: Generating keypair
+[12:28:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:28:35] [Server thread/INFO]: Using default channel type
+[12:28:35] [Server thread/INFO]: Preparing level "world"
+[12:28:36] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:28:36] [Server thread/INFO]: Loaded 524 recipes
+[12:28:37] [Server thread/INFO]: Loaded 571 advancements
+[12:28:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 4%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 8%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 12%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 16%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 20%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 24%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 28%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 32%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 36%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 40%
+[12:28:37] [Server thread/INFO]: Preparing spawn area: 44%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 48%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 52%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 56%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 60%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 64%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 68%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 72%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 76%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 80%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 84%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 88%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 92%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 96%
+[12:28:38] [Server thread/INFO]: Preparing spawn area: 100%
+[12:28:38] [Server thread/INFO]: Time elapsed: 1066 ms
+[12:28:38] [Server thread/INFO]: Done (2.534s)! For help, type "help"
+[12:29:09] [User Authenticator #1/INFO]: UUID of player CulPandakid is e8b4e16b-1e9c-4a3b-8e0a-67cf8e1d4fe1
+[12:29:09] [Server thread/INFO]: CulPandakid[/68.100.24.30:53402] logged in with entity id 213 at (226.84998994401107, 64.0, -266.78193285263967)
+[12:29:09] [Server thread/INFO]: CulPandakid joined the game
+[12:38:48] [Server thread/INFO]: [CulPandakid: Enabled data pack [file/TreeCapitator v1.2.2.zip]]
+[12:38:48] [Server thread/INFO]: Reloading ResourceManager: Default, TreeCapitator v1.2.2.zip
+[12:38:49] [Server thread/INFO]: Loaded 524 recipes
+[12:38:49] [Server thread/INFO]: Loaded 20 custom command functions
+[12:38:50] [Server thread/INFO]: Loaded 571 advancements
+[12:56:29] [Server thread/INFO]: CulPandakid was slain by Zombie
+[12:56:32] [Server thread/WARN]: CulPandakid moved too quickly! -145.19999998807907,-2.9000015258789062,-160.80000001192093
+[12:56:48] [Server thread/INFO]: [CulPandakid: Set own game mode to Creative Mode]
+[13:00:00] [Server thread/INFO]: [CulPandakid: Set own game mode to Survival Mode]
+[13:00:04] [Server thread/INFO]: CulPandakid lost connection: Disconnected
+[13:00:04] [Server thread/INFO]: CulPandakid left the game
+[13:04:46] [Server thread/INFO]: Stopping the server
+[13:04:46] [Server thread/INFO]: Stopping server
+[13:04:46] [Server thread/INFO]: Saving players
+[13:04:46] [Server thread/INFO]: Saving worlds
+[13:04:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:04:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:04:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:04:46] [Server Shutdown Thread/INFO]: Stopping server
+[13:04:46] [Server Shutdown Thread/INFO]: Saving players
